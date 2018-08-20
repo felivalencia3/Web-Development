@@ -1,0 +1,129 @@
+body {
+    zoom: 100%;
+    background: linear-gradient(-45deg, #5b86e5,  #2193b0,   #13547a, #93a5cf );
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 5s ease infinite;
+    -moz-animation: Gradient 5s ease infinite;
+    animation: Gradient 5s ease infinite;
+    zoom: 90%;
+    color: white;
+
+}
+.heading {
+color: white;
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+
+}
+
+input[type=text], select {
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #cc2b5e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+}
+
+input[type=submit]:hover {
+    background-color: goldenrod;
+}
+ .pagecontent {
+    font-weight: lighter;
+    color: black;
+ }
+
+.topbar {
+    width: 100%;
+    height: 145px;
+color: white;
+background: linear-gradient(-45deg, #753a88,  #cc2b5e,   #42275a, #734b6d );
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 3s ease infinite;
+    -moz-animation: Gradient 3s ease infinite;
+    animation: Gradient 3s ease infinite;
+    zoom: 100%;
+
+}
+@-webkit-keyframes Gradient {
+    0% {background-position: 0% 50%}
+    50% {background-position: 100% 50%}
+    100% {background-position: 0% 50%}
+}
+@-moz-keyframes Gradient {
+    0% {background-position: 0% 50%}
+    50% {background-position: 100% 50%}
+    100% {background-position: 0% 50%}
+}
+@keyframes Gradient {
+    0% {background-position: 0% 50%}
+    50% {background-position: 100% 50%}
+    100% {background-position: 0% 50%}
+}
+.butt {
+    display: inline;
+            text-align: center;
+            background-color: crimson;
+            color: white;
+            font-size: 34px;
+            padding: 20px 40;
+            border: none;
+            margin-bottom: 10px;
+            cursor: pointer;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+
+        }
+        .butt:hover  {
+            background-color: goldenrod;
+        }
+
+#form1  {
+    font-size: 30px;
+    font-family: "Futura", sans-serif;
+    margin-top: -140px;
+    padding-left: 250px;
+    color: white;
+}
+#country {
+    display: inline;
+            text-align: center;
+            background-color: darkred;
+            color: white;
+            font-size: 22px;
+            padding: 20px 40;
+            border: none;
+            margin-bottom: 10px;
+            cursor: pointer;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+
+
+}
+#country :hover {
+    background-color: goldenrod;
+}
+#out {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color:  gold;
+}

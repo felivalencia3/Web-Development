@@ -1,0 +1,13 @@
+
+<div id="resp"></div>
+<script>
+function f(x){
+    return (x*x - 3*x +2)
+
+}
+for (let index = -10; index <= +10; index++) {
+    console.log(index,f(index))
+    let tmp="<b>"+index +"</b>: " + f(index)+"<br>";
+    document.getElementById("resp").innerHTML += tmp
+}
+</script>

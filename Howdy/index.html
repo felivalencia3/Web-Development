@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quick Access</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="main.css"/> 
+<div id="title">
+<h1>Quick Access</h1>
+</div>
+<div id="Main">
+<p>1: Phidias</p>
+<p>2: Google Classroom</p>
+<p>3: Google Drive</p>
+<h4>What would you like to see?</h4>
+<button onclick="Phidiasfunc()" class="button">Phidias</button>
+<button onclick="Classroomfunc()" class="button">Google Classroom</button>
+<button onclick="Drivefunc()" class="button">Google Drive</button>
+<br>
+</div>
+<br>
+
+<div class="buttons">
+<h4>Or</h4>
+<h3>Get timetables for↓↓↓↓↓</h3>
+<br>
+<br>
+<button onclick="LD()" class="button">7LD</button>
+<script>
+function LD() {
+    var img_1 = document.getElementById("img1");
+    img_1.height = 576;
+    img_1.height = 720;
+    img_1.src = "timetable1.png"
+}
+</script>
+
+
+<button onclick="GB()" class="button">7GB</button>
+<script>
+function GB() {
+    var img_1 = document.getElementById("img1");
+    img_1.height = 576;
+    img_1.height = 720;
+    img_1.src = "timetable2.png"
+}
+</script>
+
+<button onclick="DW()" class="button">8DW</button>
+<script>
+function DW() {
+    var img_1 = document.getElementById("img1");
+    img_1.height = 576;
+    img_1.height = 720;
+    img_1.src = "timetable3.png"
+}
+</script>
+
+<button onclick="LH()" class="button">8LH</button>
+<script>
+function LH() {
+    var img_1 = document.getElementById("img1");
+    img_1.height = 576;
+    img_1.height = 720;
+    img_1.src = "timetable4.png"
+}
+</script>
+
+<button onclick="NS()" class="button">9NS</button>
+<script>
+function NS() {
+    var img_1 = document.getElementById("img1");
+    img_1.height = 576;
+    img_1.height = 720;
+    img_1.src = "timetable5.png"
+}
+</script>
+
+<button onclick="DB()" class="button">9DB</button>
+<script>
+function DB() {
+    var img_1 = document.getElementById("img1");
+    img_1.height = 576;
+    img_1.height = 720;
+    img_1.src = "timetable6.png"
+}
+</script>
+</div>
+<script>
+	function Phidiasfunc() {
+	window.open("http://granbretana.phidias.co/")
+	}
+	</script>
+
+<script>
+	function Classroomfunc() {
+	window.open("https://classroom.google.com/u/0/h")
+	}
+
+</script>
+
+<script>
+	function Drivefunc() {
+	window.open("https://drive.google.com/drive/u/0/")
+	}
+</script>
+<img id="img1" src="http://probablyprogramming.com/wp-content/uploads/2009/03/handtinyblack.gif"></img>
+
+</body>
+</html>

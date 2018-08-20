@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+.inputPapaya {background-color:  "blue"; color¡:  "red" }
+</style>
+
+</head>
+<body onload="">
+
+  <form id="aForm">
+    This is the Input:<br/>
+    <input  type="text" id="input1"  size="80" class="inputPapaya"  name="nameOfInput1"></input><br/>
+    <input  type="text" id="input2"  size="80" class="inputPapaya"  name="nameOfInput2"></input><br/>
+    <input  type="text" id="input3"  size="80" class="inputPapaya"  name="nameOfInput3"></input><br/>
+    <input type="button" onclick="addData()"  value="go!">
+  </form>
+<div id="div1">
+
+  <script>
+   function addData() {
+    console.log("starting")
+  //  document.forms[0].elements[0].value += "hola"
+  /*  document.getElementById("input2").value += "mundo"
+    var papayas = document.getElementsByClassName("inputPapaya")
+    for (var  i = 0  ; i<papayas.length ; i++) {
+      papaya = papayas[i]
+      console.log("  a papaya",  papaya)
+      papaya.value  +=  " >>> "
+    }
+*/
+    var newDiv =document.createElement("div");
+    var newContent = document.createTextNode(document.forms[0].elements[0].value);
+  // add the text node to the newly created div
+
+    newDiv.appendChild(newContent);
+    var currentDiv = document.getElementById("div1");
+  currentDiv.innerHTML = "<hi>"+document.forms[0].elements[0].value+"</h1>";
+
+
+    document.body.insertBefore(newDiv, currentDiv);
+    console.log("the end is near",  papayas)
+  }
+
+  </script>
+</body>
+</html>

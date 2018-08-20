@@ -1,0 +1,20 @@
+
+<script>
+
+var execFunc = function(){
+  let min= document.getElementById("min").value
+  let max= document.getElementById("min").value
+  let f=document.getElementById("f").value
+
+  for(let x = min; x<= max ; x++){
+      console.log(x,eval(f))
+     // document.getElementById("resp").innerHTML += "<b>"x :"</b> " + eval(f);
+
+  }
+}
+</script>
+function = <input id="f" size="16" value="x*x"><br>
+range <input id="min" value="-3"size="4"> -
+ <input id="max" value="+3" size=4>  <br/>
+<input type="button" value="calculate" onclick="execFunc()">
+<div  id="resp"></div>

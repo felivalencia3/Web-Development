@@ -1,0 +1,36 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Consume Spring</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+
+<form action="/">
+    <label for="ide">Enter your name: </label>
+    <input type="text" id="ide" name="id">
+    <input type="button" onclick="getdata()" value="Submit">
+</form>
+<div id="divvy" style="display: none">
+    <h1>The Spring Web Service says:</h1>
+    <h2 id="greeting"></h2>
+</div>
+<script>
+   
+    function getdata() {
+        let params = $("#ide").val();
+        if (params) {
+
+            
+            let url = "http://127.0.0.1:8080/greeting?name="+params;
+            console.log(url)
+            $.get(url, (data, status) => {
+                console.log(data);
+                $("#greeting").html(data.content);
+                $("#divvy").fadeIn(3000);
+            })
+        }
+
+    }
+</script>
+
+</body></html>

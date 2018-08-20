@@ -1,0 +1,174 @@
+
+            
+            
+        body {
+            width: 100wh;
+            height: 90vh;
+            color: #fff;
+            background: linear-gradient(-45deg,  #5b86e5,  #ed4264,   #13547a, #93a5cf );
+            background-size: 400% 400%;
+            -webkit-animation: Gradient 15s ease infinite;
+            -moz-animation: Gradient 15s ease infinite;
+            animation: Gradient 15s ease infinite;
+            zoom: 67%;
+            
+            
+        }
+        @-webkit-keyframes Gradient {
+            0% {background-position: 0% 50%}
+            50% {background-position: 100% 50%}
+            100% {background-position: 0% 50%}
+        }
+        @-moz-keyframes Gradient {
+            0% {background-position: 0% 50%}
+            50% {background-position: 100% 50%}
+            100% {background-position: 0% 50%}
+        }
+        @keyframes Gradient {
+            0% {background-position: 0% 50%}
+            50% {background-position: 100% 50%}
+            100% {background-position: 0% 50%}
+        }
+        
+        .video {
+            display: block;
+            margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-right: auto;
+    width: 40%;
+    
+    float: right;
+        }
+
+        .text {
+            float: left;
+            margin-left: 100px;
+            word-wrap: break-word;
+            color: slategray;
+            
+        }
+        .text h2 {
+            
+            box-shadow: 0 8px 16px 0 gold, 0 6px 20px 0 rgba(0,0,0,0.19);
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 48px;
+            color: silver;
+        }
+        .text ul {
+            font-family: "Futura", 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 28px;
+            color: lightcyan;
+        }
+        .location {
+        
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 32px;
+            margin: 4px 2px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.6s; 
+            transition-duration: 0.6s;
+            margin: auto;
+    width: 50%;
+    
+    padding: -50px;
+           }
+    
+           .h3 {
+            font-family: "Garamond", Arial, Helvetica, sans-serif;
+            color: snow;
+            font-size: 50px;
+            display: block;
+            margin-top: 0px;
+            -webkit-animation: color-change 5s infinite;
+    -moz-animation: color-change 5s infinite;
+    -o-animation: color-change 5s infinite;
+    -ms-animation: color-change 5s infinite;
+    animation: color-change 5s infinite;
+}
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@-ms-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color:  gainsboro; }
+    50% { color:  gold; }
+    100% { color: gainsboro }
+}
+            
+        
+       .nav {
+           display: block;
+        margin: auto;
+        width: 50%;
+        margin-bottom: 100px;
+        float: left;
+        text-align: center;
+        
+           padding: 0.01px;
+           
+           
+           
+       }
+
+       
+       
+
+       .button {
+      
+    
+            background-color: #555555;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            
+            font-size: 34.5px;
+            margin: 4px 2px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.6s; 
+            transition-duration: 0.6s;
+           margin-top: 40px;
+           box-shadow: 0 8px 16px 0 firebrick, 0 6px 20px 0 rgba(0,0,0,0.19);
+           
+                       }
+
+            .button:hover {
+                background-color: crimson;
+            color: white;
+            
+       }
+
+       #but {
+           margin-top: -50px;
+        box-shadow: 0 8px 16px 0 firebrick, 0 6px 20px 0 rgba(0,0,0,0.19);
+       }
+
+       #vid1 {
+           padding-bottom: 50px;
+       }

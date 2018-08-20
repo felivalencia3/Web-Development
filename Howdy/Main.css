@@ -1,0 +1,40 @@
+html {
+background-image: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_blue_1920x1234.jpg");
+background-size: cover;
+text-align: center;
+}
+
+
+h1 {
+font-size: 72px;
+font-family: "Gill Sans Light", Palatino Linotype, sans-serif;
+color: white;
+
+}
+
+
+#Main {
+font-size: 28px;
+font-family: "Optima", helvetica neue, sans-serif;
+color: #FFFFFF;
+}
+
+.buttons {
+font-size: 16px;
+font-family: "Gill Sans Light", Palatino Linotype, sans-serif;
+color: white;
+}
+
+.button {
+    background-color: rgb(54, 105, 154);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: "Optima", helvetica neue, sans-serif;
+}

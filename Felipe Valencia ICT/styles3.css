@@ -1,0 +1,70 @@
+body {
+    background: #13547a url(https://www.walldevil.com/wallpapers/h12/background-web-brandbg-images.jpg);
+   zoom: 67%;
+    color: white;
+    background-size: 100%;
+    
+ 
+  
+}
+
+.heading {
+    font-size: 50px;
+    font-family: "Futura", Courier, monospace; 
+}
+.president {
+    border: 2px dashed orange;
+    float: left;
+}
+
+.team {
+    border: 2px dashed orange;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.vicepres {
+    margin-right: 50px;
+    float: left;
+    margin-top: 5px;
+    border: 2px dashed orange;
+}
+.butt {
+display: block;
+        text-align: center;
+        background-color: crimson;
+        color: white;
+        font-size: 20px;  
+        padding: 20px 40;
+        border: none;
+        margin-bottom: 10px;
+        cursor: pointer;
+    -webkit-transition-duration: 0.5s; 
+    transition-duration: 0.5s;
+    
+    }
+    .butt:hover  {
+        background-color: #185a9d;
+    }
+
+    .pagecontent {
+
+        margin-left: 25%;
+        margin-top: -750px;
+    }
+    
+
+    #team {
+        display: block;
+    }
+
+  
+   .para {
+    font-family: "Montserrat", sans-serif;
+   }
+   
+    
+    
+    .heading2 {
+        font-family: 'Lato', sans-serif;
+    }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Text Input</h2>
+
+<form>
+  Enter a word:<br>
+  <input type="text" name="firstname" id ="input1">
+  <input  type= "button" onclick ="plzwork()">
+  <br>
+  <p id = "para">
+</p>
+</form>
+<script>
+function plzwork() {
+  console.log("inicio")
+  var text = document.getElementById("input1").value;
+  document.getElementById("para").innerHTML = text +  " is  nice";
+}
+</script>
+
+</body>
+</html>
