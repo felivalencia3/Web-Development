@@ -1,4 +1,3 @@
-import re
 import string
 def Encrypt(str):
     lower = str.lower()
