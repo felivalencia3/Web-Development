@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdfbdb72-91a0-4f8d-a6bb-0bf366547dee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjango/mysite/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstDjango/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/.bowerrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/components/version/interpolate-filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/components/version/interpolate-filter_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/components/version/version-directive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/components/version/version-directive_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/components/version/version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/components/version/version_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/index-async.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/view1/view1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/view1/view1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/view1/view1_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/view2/view2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/view2/view2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/app/view2/view2_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/e2e-tests/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/e2e-tests/scenarios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/FirstAngular/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AngularJS/dont-leave-me/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/.idea/twitter-bootstrap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootStrap/twitter-bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Writing-your-first-Django-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Felipe Valencia ICT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeoAlarmTest/.idea/GeoAlarmTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeoAlarmTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeoAlarmTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeoAlarmTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeoAlarmTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelpPLZ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelpPLZ/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/Main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/timetable1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/timetable2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/timetable3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/timetable4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/timetable5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Howdy/timetable6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstDjango/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstDjango/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstDjango/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstDjango/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstDjango/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstDjango/mysite/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstDjango/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstDjango/mysite/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstDjango/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstDjango/mysite/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstDjango/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstDjango/mysite/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/FirstFlask.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstFlask/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/imlazy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/react.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/ReactLearn/tic-tac-toe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/.idea/firstreact.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/public/favicon.icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/firstreact/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/.idea/forms_react.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/src/fetch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/forms_react/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/inline_react_html/.idea/inline_react_html.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/inline_react_html/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/inline_react_html/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/inline_react_html/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/inline_react_html/react_forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/my_resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/.csscomb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/actions/PageActions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/components/Pokemon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/components/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/constants/Page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/containers/Page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/reducers/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/store/configureStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/pokedex-master/src/style/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/.idea/react_from_academy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/public/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_from_academy/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/.idea/react_launch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/react_launch/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/.idea/tic-tac-toe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/tic-tac-toe/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReactJS/untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Word_to_Minutes" beforeDir="false" afterPath="$PROJECT_DIR$/../../Word_to_Minutes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../form1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../form2.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CSTest$practical_test.coverage" NAME="practical_test Coverage Results" MODIFIED="1536764730350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="464490879">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1976" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1976" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practical_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practical_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Course" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="practical_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.practical_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdfbdb72-91a0-4f8d-a6bb-0bf366547dee" name="Default Changelist" comment="" />
+      <created>1536761983044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536761983044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584814" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/practical_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
