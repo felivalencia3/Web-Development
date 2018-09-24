@@ -1395,7 +1395,7 @@ import App from './App';
 
 it('renders welcome message', () => {
   const wrapper = shallow(<App />);
-  const welcome = <h2>Welcome to React</h2>;
+  const welcome = <h2>Clock to React</h2>;
   // expect(wrapper.contains(welcome)).to.equal(true);
   expect(wrapper.contains(welcome)).toEqual(true);
 });
@@ -1455,7 +1455,7 @@ import 'react-testing-library/cleanup-after-each';
 import 'jest-dom/extend-expect';
 ```
 
-Here's an example of using `react-testing-library` and `jest-dom` for testing that the `<App />` component renders "Welcome to React".
+Here's an example of using `react-testing-library` and `jest-dom` for testing that the `<App />` component renders "Clock to React".
 
 ```js
 import React from 'react';
@@ -1464,7 +1464,7 @@ import App from './App';
 
 it('renders welcome message', () => {
   const { getByText } = render(<App />);
-  expect(getByText('Welcome to React')).toBeInTheDOM();
+  expect(getByText('Clock to React')).toBeInTheDOM();
 });
 ```
 
