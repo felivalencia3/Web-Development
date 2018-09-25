@@ -19,7 +19,7 @@ highest1 = sorted1[len(grade1)-1]
 grade2 = [grade21,grade22,grade23]
 sorted2 = sorted(grade2)
 highest2 =sorted2[len(grade2)-1]
-average1 = sum(grade1) / float(len(grade1))
-average2 = sum(grade2) / float(len(grade2))
-totalavg = average2+average1 / 2
-print("{0}'s total average is {1}, their average for Objective 1 was {2} and their highest grade was {3}\nFor Objective two their average {4} and highest grade was {5}".format(name,totalavg,average1,highest1,average2,highest2))
+#average1 = sum(grade1) / float(len(grade1))
+average1 = (highest1+highest2)/2
+#average2 = sum(grade2) / float(len(grade2))
+print("{0}'s total average is {1} and their highest grade for Objective 1 was {2}\nFor Objective 2 ther highest grade was {3}".format(name,average1,highest1,highest2))
