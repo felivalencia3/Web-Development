@@ -1,8 +1,8 @@
 from django.contrib import admin
 from django.urls import path, include
-
+from django.shortcuts import redirect
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('upload/', include("ImageUploader.urls")),
-    path('analyze/', include("Analysis.urls"))
+    path('', include("ImageUploader.urls")),
+    path('analyze/', include("Analysis.urls")),
 ]
