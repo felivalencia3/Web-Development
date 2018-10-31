@@ -8,6 +8,12 @@ def plotPoints(m,b,indice):
         bar = m*((x/10)**indice)+b
         coords.append(bar)
     return coords
+def printPoints(m,b,indice):
+    coordinates = []
+    for t in range(-5,6):
+        qux = m*(t**indice)+b
+        coordinates.append(qux)
+    return coordinates
 def graphIt(x,y):
     plt.plot(x,y)
     plt.show()
@@ -42,9 +48,14 @@ if foo == "Y" or foo=="y":
     xCoords = []
     for j in range(-50,60):
         xCoords.append(j/10)
-    print("x points:",xCoords)
+
+    printX = []
+    for rawr in range(-5,6):
+        printX.append(rawr)
+    print("x points:",printX)
     yCoords = plotPoints(gradient,increment,exponent)
-    print("y points:",yCoords)
+    printY = printPoints(gradient,increment,exponent)
+    print("y points:",printY)
     graphIt(xCoords,yCoords)
 elif foo == "N" or foo=="n":
     print("Ok then. Bye")
