@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0783fbbb-9f45-4595-8365-54f30acadde5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleShip/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleShip/Player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleShip/battleship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleShip/nestedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BattleshipAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/Cython/hello.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/Cython/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/comp_sci/Python_to_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/tommyinho.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learn Py/encrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn Py/encrypt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learn Py/lore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BattleShip/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BattleShip/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Word_to_Minutes" beforeDir="false" afterPath="$PROJECT_DIR$/../../Word_to_Minutes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,9 +18,10 @@
     <session id="-667817362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.54" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -59,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <marker date="1543929665164" expanded="true" signature="262:308" ph="..." />
                 <marker date="1543929665164" expanded="true" signature="531:610" ph="..." />
@@ -103,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,6 +98,7 @@
         </subPane>
       </pane>
       <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,15 +176,9 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -209,13 +186,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +211,7 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <marker date="1543929665164" expanded="true" signature="262:308" ph="..." />
             <marker date="1543929665164" expanded="true" signature="531:610" ph="..." />

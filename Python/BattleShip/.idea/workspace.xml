@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ffca5ea2-27b4-48ed-829e-8fe734b2427d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/battleship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/BattleshipAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BattleshipAPI/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/Cython/hello.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/Cython/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/comp_sci/Python_to_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSTest/tommyinho.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learn Py/encrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learn Py/encrypt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learn Py/lore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/battleship.py" beforeDir="false" afterPath="$PROJECT_DIR$/battleship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BattleshipAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BattleshipAPI/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Word_to_Minutes" beforeDir="false" afterPath="$PROJECT_DIR$/../../Word_to_Minutes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,35 +19,37 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/BattleShip$nestedList.coverage" NAME="nestedList Coverage Results" MODIFIED="1543599763657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BattleShip$battleship.coverage" NAME="battleship Coverage Results" MODIFIED="1544022263922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1015719011">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1746" />
+          <entry key="py" value="2973" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1746" />
+          <entry key="Python" value="2973" />
         </counts>
       </usages-collector>
     </session>
@@ -67,10 +57,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nestedList.py">
+        <entry file="file://$PROJECT_DIR$/battleship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="73" />
+            <state relative-caret-position="416">
+              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <marker date="1544022263863" expanded="true" signature="317:318" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +76,22 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>F</find>
+      <find>1</find>
+      <find>2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2</replace>
+      <replace>3</replace>
+      <replace>4</replace>
+      <replace>5</replace>
+      <replace>6</replace>
+      <replace>0</replace>
+      <replace>1</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -102,7 +111,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -115,7 +124,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,12 +135,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -147,7 +157,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.battleship">
+    <configuration name="battleship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BattleShip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/battleship.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="nestedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BattleShip" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,8 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.nestedList" />
+      <item itemvalue="Python.battleship" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.battleship" />
         <item itemvalue="Python.nestedList" />
       </list>
     </recent_temporary>
@@ -191,13 +228,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,17 +266,20 @@
     <entry file="file://$PROJECT_DIR$/Player.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/battleship.py">
+    <entry file="file://$PROJECT_DIR$/nestedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="192">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nestedList.py">
+    <entry file="file://$PROJECT_DIR$/battleship.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="73" />
+        <state relative-caret-position="416">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <marker date="1544022263863" expanded="true" signature="317:318" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
